@@ -1,6 +1,6 @@
 {
   "name": "hooks-zange",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/CharlesKasasira/hooks-zange/issues"
   },
-  "homepage": "https://github.com/CharlesKasasira/hooks-zange#readme"
+  "homepage": "https://github.com/CharlesKasasira/hooks-zange#readme",
+  "peerDependencies": {
+    "react": "18.0.0",
+    "react-dom": "^18.0.0"
+  }
 }
