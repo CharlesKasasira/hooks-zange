@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CharlesKasasira/my-hooks.git"
+    "url": "git+https://github.com/CharlesKasasira/hooks-zange.git"
   },
   "author": "Charles Kasasira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CharlesKasasira/my-hooks/issues"
+    "url": "https://github.com/CharlesKasasira/hooks-zange/issues"
   },
-  "homepage": "https://github.com/CharlesKasasira/my-hooks#readme"
+  "homepage": "https://github.com/CharlesKasasira/hooks-zange#readme"
 }
