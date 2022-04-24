@@ -1,0 +1,19 @@
+{
+  "name": "hooks-zange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesKasasira/my-hooks.git"
+  },
+  "author": "Charles Kasasira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesKasasira/my-hooks/issues"
+  },
+  "homepage": "https://github.com/CharlesKasasira/my-hooks#readme"
+}
